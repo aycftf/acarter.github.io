@@ -9,11 +9,19 @@ profile:
   image: ac123.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 Eastern Michigan University </p>
+    <p>Eastern Michigan University </p>
     <p>Plymouth MI; 48170</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+description:
+  enabled: true
+  test: >
+    <body> 
+      Hello world. This is a description of what i do, how i do it, and why I do it!
+    </body>
+
 
 announcements:
   enabled: false # includes a list of news items
