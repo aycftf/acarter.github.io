@@ -2,7 +2,7 @@
 layout: about
 title: HOME
 permalink: /
-subtitle: <a href='#'> Cybersecurity Student that specializes in OS, Networking, and general software security and designnnnn. 
+subtitle: <a href='#'> Cybersecurity Student that specializes in OS, Networking, and general software security and design. 
 
 profile:
   align: right
