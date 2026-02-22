@@ -48,6 +48,14 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+
+    {% if page.description and page.description.enabled %}
+      <h2>
+        <a href="{{ '/description/' | relative_url }}" style="color: inherit">description</a>
+      </h2>
+      {% include news.description limit=true %}
+    {% endif %}
+
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
