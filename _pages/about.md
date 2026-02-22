@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: HOME
 permalink: /
 subtitle: <a href='#'> Cybersecurity Student that specializes in OS, Networking, and general software security and design. 
 
@@ -14,13 +14,6 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-
-
-description:
-  enabled: true # includes a list of news items
-  scrollable: true
-
 
 
 announcements:
