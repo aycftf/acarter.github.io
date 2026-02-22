@@ -26,4 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello world. This is a description of what i do, how i do it, and why I do it!
+<b>Hello world.</b> This is a description of what i do, how i do it, and why I do it!
+
+This is an image i am linking myself:  <img src="/aycsite/assets/img/ac123.jpg" class="img-fluid z-depth-1" width="50%" height="auto" alt="ac123.jpg" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
